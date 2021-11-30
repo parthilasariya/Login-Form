@@ -55,7 +55,7 @@
                                                     <constraint firstAttribute="height" constant="45" id="Avd-BZ-J45"/>
                                                     <constraint firstAttribute="width" constant="122" id="hHw-DX-rkQ"/>
                                                 </constraints>
-                                                <fontDescription key="fontDescription" name="Futura-Bold" family="Futura" pointSize="34"/>
+                                                <fontDescription key="fontDescription" name="Futura-Bold" family="Futura" pointSize="33"/>
                                                 <color key="textColor" systemColor="systemBackgroundColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
